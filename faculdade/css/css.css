@@ -1,0 +1,151 @@
+body{
+	margin:0;
+}
+
+.topnav {
+  list-style-type: none;
+  overflow: hidden;
+  background-color: #070707;
+}
+
+.topnav a {
+  float:left;	
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 24px 77px;
+  text-decoration:none;
+  margin-top:3%;
+}
+
+.topnav a:hover {
+  background-color: red;
+   opacity:0.5;
+}
+
+.divform{
+	float:left;
+	text-align:center;
+	background-color:#0092df;
+	width:500px;
+	height:512px;
+}
+
+.form{
+	padding-top:3%;
+}
+
+span{
+	color:white;
+}
+
+.imgv{
+	float:left;
+}
+
+input {
+	text-align:center;
+	line-height: 3em;
+    min-height: 48px;
+    height: 47px;
+	width: 256px;
+}
+
+h2{
+	color:white;
+}
+
+.vest{
+	margin-left:9%;
+	margin-top:3%;
+}
+
+.logo{
+	float:left;
+}
+
+.tabela{
+	text-align:center;
+	margin-left:35%;
+	margin-top:3%;
+}
+
+
+.cam1 , .cam2 , .cam3{
+	
+	background-color:#a7a7a7;
+	width:390px;
+	height:515px;
+	float:left;
+	margin-left:3%;
+
+}
+
+.campus{
+	margin-left:10%;
+	margin-top:3%;
+}
+
+.sobre{
+	padding-top:5px;
+	width:100%;
+	height:315px;
+	background-color:#dac0c0;
+	
+}
+
+.per{
+	padding-top:5px;
+	width:100%;
+	height:315px;
+	
+}
+
+.grade{
+	padding-top:5px;
+	width:100%;
+	height:528px;
+	background-color:#dac0c0;
+}
+
+.inform{
+	
+	margin-top:38%;
+	text-align:center;
+}
+
+.esq , .dir, .cen{
+	float:left;
+	margin-top:3%;
+	margin-left:14%;
+}
+
+.img{
+	margin-left:8%;
+	margin-top:3%;
+	width:330px;
+	height:210px;
+}
+
+.p{
+	
+	padding-left:36%;
+}
+
+.h3{
+	
+	padding-left:8%;
+}
+
+footer{
+	width:100%;
+	height:100px;
+	display:block;
+	position:absolute;
+	margin-bottom:0px;
+	padding-top:20px;
+	margin-top:30px;
+	background-color:black;
+	color:white;
+	text-align:center;
+}
